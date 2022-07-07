@@ -11,7 +11,7 @@
 - ![Flashbots MEV-Boost]https://github.com/flashbots/mev-boost
 
 # Test
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost)](https://github.com/flashbots/mev-boost)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
 # MEV Boost Articles
 -  *[Why run mev-boost?](https://writings.flashbots.net/writings/why-run-mevboost/ "MEV-Boost")*
