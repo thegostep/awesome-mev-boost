@@ -15,6 +15,16 @@
 - [Additional Resources](#Additional-Resources)
 
 ## Github Repositories
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+    </a>
+</p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
@@ -29,9 +39,9 @@
 ## Articles/Papers
 -  *[Why run mev-boost?](https://writings.flashbots.net/writings/why-run-mevboost/ "MEV-Boost")* by Hasu & Stephane Gosselin
 
-- *[Why Building the Most Profitable Block is Important](https://writings.flashbots.net/writings/on-the-most-profitable-block/) by Robert Miller 
+- *[Why Building the Most Profitable Block is Important](https://writings.flashbots.net/writings/on-the-most-profitable-block/)* by Robert Miller 
 
-- *[Beginner's Guide to mev-boost](https://writings.flashbots.net/writings/beginners-guide-mevboost/) by Jolene Dunne
+- *[Beginner's Guide to mev-boost](https://writings.flashbots.net/writings/beginners-guide-mevboost/)* by Jolene Dunne
 
 - *[MEV-Boost: Merge ready Flashbots Architecture - The Merge - Ethereum Research](https://hackmd.io/@manifold/S1jRmGIPF)*
 
