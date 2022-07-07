@@ -59,11 +59,11 @@
 - *[MEV-Boost Rambling](https://femboy.capital/MEV-Boost)*
 
 ## Presentations/Panels
-- :yt:*[MEV Day 2022](https://www.youtube.com/playlist?list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI)*
+- :tv: *[MEV Day 2022](https://www.youtube.com/playlist?list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI)*
 
-- :yt:*[lightclient - Extracting MEV After the Merge](https://www.youtube.com/watch?v=ci7pLez8eDk&t=429s)*
+- :tv: *[lightclient - Extracting MEV After the Merge](https://www.youtube.com/watch?v=ci7pLez8eDk&t=429s)*
 
-- :yt:*[A preview of MEV and mev-boost for validators with Remy, Yorick and Ladislaus](https://www.youtube.com/watch?v=sZYJiLxp9ow)*
+- :tv: *[A preview of MEV and mev-boost for validators with Remy, Yorick and Ladislaus](https://www.youtube.com/watch?v=sZYJiLxp9ow)*
 
 
 ## Eth Research Posts
