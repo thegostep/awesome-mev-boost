@@ -8,7 +8,7 @@
 </p>
 
 # Github Repositories
-- ![Flashbots MEV-Boost]https://github.com/flashbots/mev-boost
+- *[Flashbots MEV-Boost](https://github.com/flashbots/mev-boost)*
 
 # Test
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
