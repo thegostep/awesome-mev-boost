@@ -16,7 +16,7 @@
 
 ## Github Repositories
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/flashbots/mev-boost">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true" />
     </a>
@@ -32,9 +32,9 @@
     <a href="https://github.com/flashbots/flashbots-data-transparency">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true"/>
     </a>
-</p>
+</p> -->
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
 
@@ -42,7 +42,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protolambda&repo=mergemock&show_owner=true)](https://github.com/protolambda/mergemock)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true)](https://github.com/flashbots/flashbots-data-transparency) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true)](https://github.com/flashbots/flashbots-data-transparency)
 
 
 ## Articles/Papers
