@@ -36,6 +36,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost/wiki/Research&show_owner=true)](https://github.com/flashbots/mev-boost/wiki/Research)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true)](https://github.com/ralexstokes/mev-rs)
