@@ -72,6 +72,7 @@
 - *[MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)* by Stephane Gosselin
 
 ## Podcasts
+- :lound_sound: [The Merge (Part 2) - with Stephane Gosselin, Danny Ryan, Tim Beiko, and Hasu ](https://www.youtube.com/watch?v=8UPFwKyaQOE)
 
 ## Twitter
 
