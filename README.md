@@ -20,8 +20,8 @@
     <a href="https://github.com/flashbots/mev-boost">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true" />
     </a>
-    <a href="https://github.com/0xpanoramix/mev-boost-cli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true"/>
+    <a href="https://github.com/0xpanoramix/flashbots-boost-status">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix/flashbots-boost-status>
     </a>
     <a href="https://github.com/ralexstokes/mev-rs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true"/>
@@ -36,7 +36,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=flashbots-boost-status&show_owner=true)](https://github.com/0xpanoramix/flashbots-boost-statu)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true)](https://github.com/ralexstokes/mev-rs)
 
