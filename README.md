@@ -36,8 +36,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost/wiki/Research&show_owner=true)](https://github.com/flashbots/mev-boost/wiki/Research)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true)](https://github.com/ralexstokes/mev-rs)
@@ -60,6 +58,10 @@
 
 - *[MEV-Boost Rambling](https://femboy.capital/MEV-Boost)*
 
+- *[State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)* by Vitalik Buterin (EF)
+
+- *[PBS censorship-resistance alternatives](https://notes.ethereum.org/@fradamt/H1TsYRfJc)* by Francesco D'Amato (EF)
+
 ## Presentations/Panels
 - :tv: *[MEV Day 2022](https://www.youtube.com/playlist?list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI)*
 
@@ -71,8 +73,10 @@
 ## Eth Research Posts
 - *[MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)* by Stephane Gosselin
 
-## Podcasts
+## Podcasts and Talks
 - *[The Merge (Part 2) - with Stephane Gosselin, Danny Ryan, Tim Beiko, and Hasu ](https://www.youtube.com/watch?v=8UPFwKyaQOE)*
+
+- *[Flashbots MEV Roast #15: PBS on Ethereum Roadmap](https://www.youtube.com/watch?v=8mcm-jT2nq4)*
 
 ## Twitter
 
