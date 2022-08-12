@@ -80,6 +80,8 @@
 
 - *[Flashbots MEV Roast #15: PBS on Ethereum Roadmap](https://www.youtube.com/watch?v=8mcm-jT2nq4)*
 
+- *[MEV-Boost – Preparing for the Merge](https://www.youtube.com/watch?v=Q9UKRAW7EOI&feature=youtu.be)*
+
 ## Twitter 
    #### Contributers - 
    - *[lightclients](https://twitter.com/lightclients)*
@@ -94,3 +96,4 @@
 ## Additional Resources
 - *[Flashbots Boost Status](https://0xpanoramix.github.io/flashbots-boost-status/)*
 - *[MEV-Boost Status Updates](https://flashbots.notion.site/4e457127e2f54a81816c6058b77739af?v=d4c86104f2124f30b4ad123b52704589)*
+- *[Choosing and Configuring a MEV Solution](https://github.com/remyroy/ethstaker/blob/main/prepare-for-the-merge.md#choosing-and-configuring-an-mev-solution)*
