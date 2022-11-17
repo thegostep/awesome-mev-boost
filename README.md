@@ -20,9 +20,6 @@
     <a href="https://github.com/flashbots/mev-boost">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true" />
     </a>
-    <a href="https://github.com/0xpanoramix/flashbots-boost-status">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix/flashbots-boost-status>
-    </a>
     <a href="https://github.com/ralexstokes/mev-rs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true"/>
     </a>
@@ -35,8 +32,6 @@
 </p> -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=flashbots-boost-status&show_owner=true)](https://github.com/0xpanoramix/flashbots-boost-status)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true)](https://github.com/ralexstokes/mev-rs)
 
@@ -71,6 +66,7 @@
 
 - :tv: *[A study of the transaction supply chain from CryptoKitties to MEV-Boost to PBS - Barnabé Monnot (EF)](https://www.youtube.com/watch?v=jQjBNbEv9Mg)*
 
+- :tv: *[Alex Stokes: MEV-Boost, How Does it Work & What’s Missing? - SBC 2022](https://www.youtube.com/watch?v=PS9SlHGJlrU)*
 
 ## Eth Research Posts
 - *[MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)* by Stephane Gosselin
