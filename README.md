@@ -79,6 +79,7 @@
 - *[The Merge (Part 2) - with Stephane Gosselin, Danny Ryan, Tim Beiko, and Hasu ](https://www.youtube.com/watch?v=8UPFwKyaQOE)*
 
 - *[Flashbots MEV Roast #15: PBS on Ethereum Roadmap](https://www.youtube.com/watch?v=8mcm-jT2nq4)*
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Twitter 
    #### Contributers - 
