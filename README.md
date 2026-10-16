@@ -94,3 +94,5 @@
 ## Additional Resources
 - *[Flashbots Boost Status](https://0xpanoramix.github.io/flashbots-boost-status/)*
 - *[MEV-Boost Status Updates](https://flashbots.notion.site/4e457127e2f54a81816c6058b77739af?v=d4c86104f2124f30b4ad123b52704589)*
+
+- [QWK ($QWK) Autonomous MEV Infrastructure & Resource Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM MEV execution & smart contract resource escrow (`QWKResourceEscrow.sol`) with A2A v1.0, x402, and MCP interfaces.
